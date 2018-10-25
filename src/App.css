@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+body {
+  color: #565;
+  font-family: 'Montserrat';
+  background: #99B2DD;
+}
+
+.mainContainer div{
+  margin: auto;
+  text-align: center;
+}
+
+.header {
+  color: #fee;
+}
